@@ -10,23 +10,25 @@ This project is done as part of course ESE 650: Learning in Robotics at Upenn. T
 # Results
 <table>
   <tr>
-      <td align = "center"> <img src="./Results/1.png" /> </td>
+      <td align = "center"> <img src="./Results/0.png" /> </td>
       <td align = "center"> <img src="./Results/1.png" /> </td>
   </tr>
   <tr>
-      <td align = "center"> Predictions from the network </td>
-      <td align = "center"> Suppressing low confidence boxes </td>
+      <td align = "center"> World 0 </td>
+      <td align = "center"> World 1 </td>
   </tr>
 </table>
 
-
-<p float="left">
-  <img src="./Results/1.png" />
-  <img src="./Results/2.png" />
-  <img src="./Results/3.png" />
-  <img src="./Results/4.png" />
-</p>
-
+<table>
+  <tr>
+      <td align = "center"> <img src="./Results/2.png" /> </td>
+      <td align = "center"> <img src="./Results/3.png" /> </td>
+  </tr>
+  <tr>
+      <td align = "center"> World 2 </td>
+      <td align = "center"> World 3 </td>
+  </tr>
+</table>
 
 
 # Dataset 
