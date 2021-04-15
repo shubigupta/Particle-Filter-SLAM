@@ -3,6 +3,11 @@ This project is done as part of course ESE 650: Learning in Robotics at Upenn. T
 
 ![SLAM Flow](./Results/SLAM Flow.png)
 
+<p float="left">
+  <img src="./Results/SLAM Flow.png" />
+</p>
+
+
 
 
 # Dataset 
