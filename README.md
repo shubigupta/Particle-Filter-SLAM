@@ -1,8 +1,6 @@
 # Particle Filter based SLAM
 This project is done as part of course ESE 650: Learning in Robotics at Upenn. The project involved implementing Simultaneous Localization and Mapping based on LIDAR scan and Odometry data. The SLAM flow is shown in picture below.
 
-![SLAM Flow]("./Results/SLAM Flow.png")
-
 <p float="left">
   <img src="./Results/SLAM Flow.png" />
 </p>
