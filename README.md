@@ -8,6 +8,18 @@ This project is done as part of course ESE 650: Learning in Robotics at Upenn. T
 
 
 # Results
+<table>
+  <tr>
+      <td align = "center"> <img src="./Results/1.png" /> </td>
+      <td align = "center"> <img src="./Results/1.png" /> </td>
+  </tr>
+  <tr>
+      <td align = "center"> Predictions from the network </td>
+      <td align = "center"> Suppressing low confidence boxes </td>
+  </tr>
+</table>
+
+
 <p float="left">
   <img src="./Results/1.png" />
   <img src="./Results/2.png" />
