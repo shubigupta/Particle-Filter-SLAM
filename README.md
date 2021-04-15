@@ -3,6 +3,7 @@ This project is done as part of course ESE 650: Learning in Robotics at Upenn. T
 
 <p float="left">
   <img src="./Results/SLAM Flow.png" />
+  <img src="./Results/Localisation slide.png" />
 </p>
 
 
